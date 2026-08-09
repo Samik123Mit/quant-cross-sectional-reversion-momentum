@@ -79,7 +79,7 @@ Deploy the dashboard through Streamlit Community Cloud:
 [![Deploy](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Samik123Mit/quant-cross-sectional-reversion-momentum&branch=main&mainModule=app/dashboard.py)
 
 Entrypoint: `app/dashboard.py`  
-After deployment, add the generated Streamlit URL here.
+Live dashboard: [Open the deployed dashboard](https://samik123mit-quant-cross-sectional-reversion-appdashboard-m0kksz.streamlit.app/)
 
 If Yahoo Finance is unreachable the pipeline **automatically** falls back to a
 deterministic synthetic panel and flags it everywhere, so results always
